@@ -48,20 +48,24 @@
 	<div class="row">	
 
 
-		<div class="col-sm-12 col-md-5">
+		<div class="col-sm-12 col-md-4">
 			<?php include 'primeiro_grafico.php' ?>
 		</div>
 
 
 
-		<div class="col-sm-0 col-md-2"></div>
 
-
-
-		<div class="col-sm-12 col-md-5">
+		<div class="col-sm-12 col-md-4">
 			<?php include 'segundo_grafico.php' ?>
 		</div>	
 
+
+		<hr>
+
+
+		<div class="col-sm-12 col-md-4">
+			<?php include 'terceiro_grafico.php' ?>
+		</div>
 
 	</div>
 
